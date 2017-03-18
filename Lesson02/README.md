@@ -20,7 +20,7 @@
 
 ~~~html
 <div class="w3-container w3-green">
-    <p>页头部分：小马视频频道</p>
+    <p>页头部分</p>
 </div>
 
 <h1>Helo W3.css world!</h1>
@@ -31,7 +31,7 @@
 <h6>Helo W3.css world!</h6>
 
 <div class="w3-container w3-light-gray">
-    <p>页脚部分：小马视频频道</p>
+    <p>页脚部分</p>
 </div>
 ~~~
 
